@@ -11,3 +11,5 @@ a:first-child { color: orange;}
 li:last-child { color: purple;}
 
 li:nth-child(2) { font-weight: bold; }
+
+input:focus { background-color: yellow; }
