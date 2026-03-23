@@ -13,3 +13,6 @@ li:last-child { color: purple;}
 li:nth-child(2) { font-weight: bold; }
 
 input:focus { background-color: yellow; }
+
+input[type="checkbox"]:checked {
+    outline: 2px solid green;}
