@@ -1,5 +1,10 @@
+a:link { color: blue;}
+
+a:visited { color: pink;}
+
 a:hover{ color: red;}
 
 a:active { color: yellow;}
 
 a:first-child { color: orange;}
+
